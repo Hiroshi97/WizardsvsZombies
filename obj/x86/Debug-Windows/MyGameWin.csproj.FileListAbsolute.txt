@@ -1,0 +1,288 @@
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\animations\startup.txt
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\bundles\FileDialog.txt
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\bundles\splash.txt
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\fonts\arial.ttf
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\fonts\cour.ttf
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\Book_Heal.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\Book_Teleport.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\fdFile.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\fdFolder.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Active.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Background.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Inactive.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Scroll.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\Fireball.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\Swinburne.jpg
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\SwinGameAni.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\panels\FileDialog.txt
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\sounds\error.wav
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\sounds\SwinGameStart.wav
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\SwinGame.icns
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\SwinGame.ico
+D:\Assets2\WizardvsZombie\bin\Debug\MyGame.exe
+D:\Assets2\WizardvsZombie\bin\Debug\MyGame.pdb
+D:\Assets2\WizardvsZombie\bin\Debug\SwinGame.dll
+D:\Assets2\WizardvsZombie\obj\x86\Debug-Windows\MyGameWin.csprojResolveAssemblyReference.cache
+D:\Assets2\WizardvsZombie\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+D:\Assets2\WizardvsZombie\obj\x86\Debug-Windows\MyGame.exe
+D:\Assets2\WizardvsZombie\obj\x86\Debug-Windows\MyGame.pdb
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\zombie.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\background.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\wizard_left.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\wizard_right.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\wizard_attack_left.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\wizard_attack_right.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\Book_fireball.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\Logo_heal.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\logo_teleport.png
+D:\Assets2\WizardvsZombie\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+E:\Assets2\WizardvsZombie\obj\x86\Debug-Windows\MyGame.exe
+E:\Assets2\WizardvsZombie\obj\x86\Debug-Windows\MyGame.pdb
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\animations\startup.txt
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\bundles\FileDialog.txt
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\bundles\splash.txt
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\fonts\arial.ttf
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\fonts\cour.ttf
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\background.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\Book_heal.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\Book_teleport.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\fdFile.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\fdFolder.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Active.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Background.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Inactive.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Scroll.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\Fireball.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\Logo_heal.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\logo_teleport.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\Swinburne.jpg
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\SwinGameAni.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\wizard_attack_left.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\wizard_attack_right.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\wizard_left.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\wizard_right.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\zombie.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\panels\FileDialog.txt
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\sounds\error.wav
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\sounds\SwinGameStart.wav
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\SwinGame.icns
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\SwinGame.ico
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\Book_fireball.png
+E:\Assets2\WizardvsZombie\bin\Debug\MyGame.exe
+E:\Assets2\WizardvsZombie\bin\Debug\MyGame.pdb
+E:\Assets2\WizardvsZombie\bin\Debug\SwinGame.dll
+E:\Assets2\WizardvsZombie\obj\x86\Debug-Windows\MyGameWin.csprojResolveAssemblyReference.cache
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\FrameUI.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\logo_fireball.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\Fireball.zip
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\You lose.png
+E:\Assets2\WizardvsZombie\bin\Debug\Resources\images\logo_wizard.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\Fireball.zip
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\FrameUI.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\logo_fireball.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\logo_wizard.png
+D:\Assets2\WizardvsZombie\bin\Debug\Resources\images\You lose.png
+F:\WizardvsZombie\bin\Debug\Resources\animations\startup.txt
+F:\WizardvsZombie\bin\Debug\Resources\bundles\FileDialog.txt
+F:\WizardvsZombie\bin\Debug\Resources\bundles\splash.txt
+F:\WizardvsZombie\bin\Debug\Resources\fonts\arial.ttf
+F:\WizardvsZombie\bin\Debug\Resources\fonts\cour.ttf
+F:\WizardvsZombie\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+F:\WizardvsZombie\bin\Debug\Resources\images\background.png
+F:\WizardvsZombie\bin\Debug\Resources\images\Book_fireball.png
+F:\WizardvsZombie\bin\Debug\Resources\images\Book_heal.png
+F:\WizardvsZombie\bin\Debug\Resources\images\Book_teleport.png
+F:\WizardvsZombie\bin\Debug\Resources\images\fdFile.png
+F:\WizardvsZombie\bin\Debug\Resources\images\fdFolder.png
+F:\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Active.png
+F:\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Background.png
+F:\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Inactive.png
+F:\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Scroll.png
+F:\WizardvsZombie\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+F:\WizardvsZombie\bin\Debug\Resources\images\Fireball.png
+F:\WizardvsZombie\bin\Debug\Resources\images\Fireball.zip
+F:\WizardvsZombie\bin\Debug\Resources\images\FrameUI.png
+F:\WizardvsZombie\bin\Debug\Resources\images\logo_fireball.png
+F:\WizardvsZombie\bin\Debug\Resources\images\logo_heal.png
+F:\WizardvsZombie\bin\Debug\Resources\images\logo_teleport.png
+F:\WizardvsZombie\bin\Debug\Resources\images\logo_wizard.png
+F:\WizardvsZombie\bin\Debug\Resources\images\Swinburne.jpg
+F:\WizardvsZombie\bin\Debug\Resources\images\SwinGameAni.png
+F:\WizardvsZombie\bin\Debug\Resources\images\wizard_attack_left.png
+F:\WizardvsZombie\bin\Debug\Resources\images\wizard_attack_right.png
+F:\WizardvsZombie\bin\Debug\Resources\images\wizard_left.png
+F:\WizardvsZombie\bin\Debug\Resources\images\wizard_right.png
+F:\WizardvsZombie\bin\Debug\Resources\images\zombie.png
+F:\WizardvsZombie\bin\Debug\Resources\panels\FileDialog.txt
+F:\WizardvsZombie\bin\Debug\Resources\sounds\error.wav
+F:\WizardvsZombie\bin\Debug\Resources\sounds\SwinGameStart.wav
+F:\WizardvsZombie\bin\Debug\Resources\SwinGame.icns
+F:\WizardvsZombie\bin\Debug\Resources\SwinGame.ico
+F:\WizardvsZombie\bin\Debug\MyGame.exe
+F:\WizardvsZombie\bin\Debug\MyGame.pdb
+F:\WizardvsZombie\bin\Debug\SwinGame.dll
+F:\WizardvsZombie\obj\x86\Debug-Windows\MyGameWin.csprojResolveAssemblyReference.cache
+F:\WizardvsZombie\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+F:\WizardvsZombie\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+F:\WizardvsZombie\obj\x86\Debug-Windows\MyGame.exe
+F:\WizardvsZombie\obj\x86\Debug-Windows\MyGame.pdb
+F:\WizardvsZombie\bin\Debug\Resources\images\lose.png
+F:\WizardvsZombie\bin\Debug\Resources\images\win.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\animations\startup.txt
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\bundles\FileDialog.txt
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\bundles\splash.txt
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\fonts\arial.ttf
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\fonts\cour.ttf
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\background.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\Book_fireball.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\fdFile.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\fdFolder.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Active.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Background.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Inactive.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Scroll.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\Fireball.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FrameUI.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\logo_fireball.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\logo_heal.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\logo_teleport.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\logo_wizard.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\lose.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\Swinburne.jpg
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\SwinGameAni.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\win.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\wizard_attack_left.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\wizard_attack_right.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\wizard_left.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\wizard_right.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\zombie.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\panels\FileDialog.txt
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\error.wav
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\SwinGameStart.wav
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\SwinGame.icns
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\SwinGame.ico
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\Book_heal.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\MyGame.exe
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\MyGame.pdb
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\SwinGame.dll
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\obj\x86\Debug-Windows\MyGameWin.csprojResolveAssemblyReference.cache
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\obj\x86\Debug-Windows\MyGame.exe
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\obj\x86\Debug-Windows\MyGame.pdb
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\Book_teleport.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\background.wav
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\fireball.wav
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\heal.wav
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\hit.wav
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\teleport.wav
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\zombie.wav
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\animations\startup.txt
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\bundles\FileDialog.txt
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\bundles\splash.txt
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\fonts\arial.ttf
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\fonts\cour.ttf
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\background.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\Book_fireball.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\Book_heal.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\Book_teleport.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\fdFile.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\fdFolder.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Active.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Background.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Inactive.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Scroll.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\Fireball.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FrameUI.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\logo_fireball.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\logo_heal.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\logo_teleport.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\logo_wizard.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\lose.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\Swinburne.jpg
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\SwinGameAni.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\win.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\wizard_attack_left.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\wizard_attack_right.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\wizard_left.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\wizard_right.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\zombie.png
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\panels\FileDialog.txt
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\background.wav
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\error.wav
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\fireball.wav
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\heal.wav
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\hit.wav
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\SwinGameStart.wav
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\teleport.wav
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\zombie.wav
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\SwinGame.icns
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\SwinGame.ico
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\MyGame.exe
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\MyGame.pdb
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\SwinGame.dll
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\obj\x86\Debug-Windows\MyGameWin.csprojResolveAssemblyReference.cache
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\obj\x86\Debug-Windows\MyGame.exe
+D:\COS20007\lab 6\6.3,4,5\WizardvsZombie\obj\x86\Debug-Windows\MyGame.pdb
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\ADlogo.png
+G:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\head.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\obj\x86\Debug-Windows\MyGame.exe
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\obj\x86\Debug-Windows\MyGame.pdb
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\animations\startup.txt
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\bundles\FileDialog.txt
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\bundles\splash.txt
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\fonts\arial.ttf
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\fonts\cour.ttf
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\ADlogo.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\background.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\Book_fireball.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\Book_heal.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\Book_teleport.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\fdFile.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\fdFolder.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Active.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Background.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Inactive.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FileDialog_Scroll.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\Fireball.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\FrameUI.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\head.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\logo_fireball.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\logo_heal.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\logo_teleport.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\logo_wizard.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\lose.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\Swinburne.jpg
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\SwinGameAni.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\win.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\wizard_attack_left.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\wizard_attack_right.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\wizard_left.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\wizard_right.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\images\zombie.png
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\panels\FileDialog.txt
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\background.wav
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\error.wav
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\fireball.wav
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\heal.wav
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\hit.wav
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\SwinGameStart.wav
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\teleport.wav
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\sounds\zombie.wav
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\SwinGame.icns
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\Resources\SwinGame.ico
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\MyGame.exe
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\MyGame.pdb
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\bin\Debug\SwinGame.dll
+F:\COS20007\lab 6\6.3,4,5\WizardvsZombie\obj\x86\Debug-Windows\MyGameWin.csprojResolveAssemblyReference.cache
