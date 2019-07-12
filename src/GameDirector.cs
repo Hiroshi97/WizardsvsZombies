@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using System.Threading;
 using SwinGameSDK;
 
+//ANDY - NGUYEN THE ANH DINH 2018
+
 namespace MyGame.src
 {
     public static class GameDirector

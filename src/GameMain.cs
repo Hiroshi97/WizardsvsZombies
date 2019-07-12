@@ -2,6 +2,8 @@ using System;
 using SwinGameSDK;
 using System.Threading;
 
+//ANDY - NGUYEN THE ANH DINH 2018
+
 namespace MyGame.src
 {
     public class GameMain

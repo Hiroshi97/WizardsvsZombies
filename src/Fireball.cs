@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using SwinGameSDK;
 
+//ANDY - NGUYEN THE ANH DINH 2018
+
 namespace MyGame.src
 {
     public class Fireball : Spell
